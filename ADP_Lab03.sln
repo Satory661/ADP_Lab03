@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADP_Lab03", "ADP_Lab03\ADP_Lab03\ADP_Lab03.csproj", "{F7F3D84D-447B-4159-9928-F3243093BFDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADP_Lab03.Sample", "ADP_Lab03\ADP_Lab03.Sample\ADP_Lab03.Sample.csproj", "{75895D7A-9512-492B-82DA-886F632C3057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADP_Lab03.Tests", "ADP_Lab03\ADP_Lab03.Tests\ADP_Lab03.Tests.csproj", "{1AB6DABD-F4D6-42C6-AB98-211C8C590EC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F3D84D-447B-4159-9928-F3243093BFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F3D84D-447B-4159-9928-F3243093BFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F3D84D-447B-4159-9928-F3243093BFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F3D84D-447B-4159-9928-F3243093BFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75895D7A-9512-492B-82DA-886F632C3057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75895D7A-9512-492B-82DA-886F632C3057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75895D7A-9512-492B-82DA-886F632C3057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75895D7A-9512-492B-82DA-886F632C3057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB6DABD-F4D6-42C6-AB98-211C8C590EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB6DABD-F4D6-42C6-AB98-211C8C590EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB6DABD-F4D6-42C6-AB98-211C8C590EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB6DABD-F4D6-42C6-AB98-211C8C590EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
